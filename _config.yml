@@ -1,7 +1,13 @@
-# Site settings
+# SITE SETTINGS
+# replace with the name you want displayed on the bio (i.e. your name)
 name: John Doe
-description: Senior Software Developer in Toronto, Canada
+# replace with your desired description
+description: Software Developer in SomeCity, SomeCountry
+# replace with keywords you want placed in the meta keywords section of the HTML header
+keywords: Software Developer, .NET, Ruby, Elixir, Javascript, HTML, Testing
+# replace with your contact email (used for the email link in the footer)
 email: john.doe@example.com
+# replace with the production URL or your bio site
 root_url: https://johndoe.com
 
 # Icon Links to display in the navbar as round icon buttons
