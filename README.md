@@ -49,7 +49,11 @@ instance the download URL is switched based on the JEKYLL_ENV setting.
 
 ![screenshot](https://raw.githubusercontent.com/riebeekn/jekyll-bootstrap-4-one-page-bio/master/_screenshot1.png)
 
+##
+
 ![screenshot](https://raw.githubusercontent.com/riebeekn/jekyll-bootstrap-4-one-page-bio/master/_screenshot2.png)
+
+##
 
 ![screenshot](https://raw.githubusercontent.com/riebeekn/jekyll-bootstrap-4-one-page-bio/master/_screenshot3.png)
 
