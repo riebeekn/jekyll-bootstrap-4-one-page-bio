@@ -9,7 +9,7 @@ The primary differences between this starter and the [Chuck Groom](https://githu
 
 * Updated to use Bootstrap 4.1.3.
 * Updated to use FontAwesome 5.3.1.
-* Removed the color variables from the config file so experimenting with different colors doesn't require a Jekyll restart.
+* Removed the color variables from the config file so experimenting with different color schemes doesn't require a Jekyll restart.
 
 The primary difference between this starter and both the [Chuck Groom](https://github.com/chuckgroom) and
 [Startbootstrap-Freelancer](https://github.com/BlackrockDigital/startbootstrap-freelancer) versions:
