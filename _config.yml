@@ -9,6 +9,9 @@ keywords: Software Developer, .NET, Ruby, Elixir, Javascript, HTML, Testing
 email: john.doe@example.com
 # replace with the production URL or your bio site
 root_url: https://johndoe.com
+# optionally replace with the name / extension of your image file
+# i.e if using perhaps a .jpg instead, the below should be changed to `profile.jpg`
+profile_image_file: profile.png
 
 # Icon Links to display in the navbar as round icon buttons
 # options, leave empty and no extra buttons will appear in
