@@ -1,0 +1,25 @@
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg bg-secondary navbar-dark fixed-top text-uppercase" id="mainNav">
+  <div class="container">
+    <a href="{{ site.baseurl }}/" class="navbar-brand js-scroll-trigger">{{site.name}}</a>
+    {% for link in site.navbar-links %}
+      <a href="{{ link.url }}" target="_blank" class="btn-social btn-outline"><i class="fab fa-{{ link.fa-icon }}"></i></a>
+    {% endfor %}
+    <button class="navbar-toggler navbar-toggler-right text-uppercase" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item mx-0 mx-lg-1">
+          <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#about">About Me</a>
+        </li>
+        <li class="nav-item mx-0 mx-lg-1">
+          <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#interests">Interests</a>
+        </li>
+        <li class="nav-item mx-0 mx-lg-1">
+          <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#resume">Resume</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

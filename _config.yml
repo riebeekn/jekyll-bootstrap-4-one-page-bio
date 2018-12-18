@@ -1,0 +1,29 @@
+# Site settings
+name: John Doe
+description: Senior Software Developer in Toronto, Canada
+email: john.doe@example.com
+root_url: https://johndoe.com
+
+# Icon Links to display in the navbar as round icon buttons
+# options, leave empty and no extra buttons will appear in
+# the navbar
+navbar-links:
+  - fa-icon: linkedin-in
+    url: https://www.linkedin.com/in/jdoeexampe/
+  - fa-icon: medium-m
+    url: https://medium.com/@jdoeexample
+  - fa-icon: twitter
+    url: https://twitter.com/jdoeexampe
+
+# Icon Links to display in the footer, leave empty and
+# just the email link will appear (which can be removed by
+# updating /_includes/footer.html)
+footer-links:
+  - fa-icon: github
+    url: https://github.com/jdoeexample
+  - fa-icon: stack-overflow
+    url: https://www.stackoverflow.com/users/987654321
+
+# Build settings
+sass:
+  sass_dir: css

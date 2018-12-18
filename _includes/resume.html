@@ -1,0 +1,18 @@
+<!-- Resume Section -->
+<section id="resume">
+  <div class="container">
+    <h2 class="text-center text-uppercase text-secondary mb-0">Resume</h2>
+    <hr class="star-dark mb-5">
+    <div class="row ml-auto">
+      {% if jekyll.environment == 'production' %}
+        <a href="{{ site.root_url }}/assets/resume.pdf" download target="_blank" class="btn btn-primary btn-xl ml-auto">
+          <i class="fa fa-cloud"></i> Download Resume
+        </a>
+      {% else %}
+        <a href="{{ site.base_url }}/assets/resume.pdf" download target="_blank" class="btn btn-primary btn-xl ml-auto">
+          <i class="fa fa-cloud"></i> Download Resume
+        </a>
+      {% endif %}
+    </div>
+  </div>
+</section>
