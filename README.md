@@ -1,6 +1,6 @@
 # Jekyll Bootstrap 4 one page bio / profile starter
 
-This is a starter Jekyll project that can be adapted to create a one page bio / profile site, see [this blog post](https://experimentingwithcode.com/creating-a-profile-site-with-jekyll-and-bootstrap-4/) for a detailed explanation of how to customize and use the starter.  Condensed usage instructions are below.
+This is a starter Jekyll project that can be used to create a one page bio / profile site, see [this blog post](https://experimentingwithcode.com/creating-a-profile-site-with-jekyll-and-bootstrap-4/) for a detailed explanation of how to customize and use the starter.  Condensed usage instructions are below.
 
 This starter is an adaption of [https://github.com/chuckgroom/onepage-bio](https://github.com/chuckgroom/onepage-bio) and
 [https://github.com/BlackrockDigital/startbootstrap-freelancer](https://github.com/BlackrockDigital/startbootstrap-freelancer).
